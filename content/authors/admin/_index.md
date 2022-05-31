@@ -48,8 +48,6 @@ highlight_name: true
 title: Konstantina Sokratous
 email: ""
 ---
-Konstantina Sokratous is a graduate research assistant of cognitive neuroscience at the University of Florida's Cognitive and Decision Modeling Lab. Her research interests include artificial intelligence, computational and mathematical modeling, psychophysics, judgement and decision making, cognitive (neuro)science and mathematical psychology. She leads projects in automating fitting of cognitive models with the use of neural networks and in modeling processes related but not limited to anticipatory decision-making and timing, pricing of delayed prospects, and decisions among arbitrarily many alternatives that change over time.
-
-
+Konstantina Sokratous is a graduate research assistant in cognitive neuroscience at the University of Florida's Cognitive and Decision Modeling Lab. Her research interests include artificial intelligence, computational and mathematical modeling, psychophysics, judgement and decision making, cognitive (neuro)science and mathematical psychology. She leads projects in automating fitting of cognitive models with the use of neural networks and in modeling processes related but not limited to anticipatory decision-making and timing, pricing of delayed prospects, and decisions among arbitrarily many alternatives that change over time.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
