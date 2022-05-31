@@ -7,6 +7,10 @@ bio: My research interests include computational and mathematical modeling,
 interests:
   - Artificial Intelligence
   - Computational Cognitive Modeling
+  - Mathematical Psychology
+  - Judgement & Decision Making
+  - Information Processing
+  - Cognitive Neuroscience
 social:
   - icon: envelope
     icon_pack: fas
