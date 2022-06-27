@@ -1,6 +1,6 @@
 ---
 role: Graduate Student in Behavioral and Cognitive Neuroscience
-avatar_filename: konstantina_sokratous.jpg
+avatar_filename: https://media-exp1.licdn.com/dms/image/C4D03AQHH9czSwu2UcQ/profile-displayphoto-shrink_800_800/0/1623093041615?e=1661990400&v=beta&t=390SB7cXUMp1rjEVgw0kOKZQBBPQWuK21lGu5AKC-AE
 bio: My research interests include computational and mathematical modeling,
   psychophysics, judgement and decision making, cognitive (neuro)science and
   mathematical psychology.
