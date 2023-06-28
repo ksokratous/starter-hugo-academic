@@ -29,7 +29,7 @@ abstract: Subjective value has long been measured using binary choice
   efficient methods for quantifying meaningful differences in intertemporal
   preferences from simple experiments.
 location: University of Amsterdam
-date: 2023-06-28T11:25:34.945Z
+date: 2023-07-21T10:00:34.945Z
 date_end: 2023-07-21T10:30:00.000Z
 links:
   - icon: twitter
@@ -58,7 +58,7 @@ tags: []
 projects:
   - AI_ForModelFitting
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: "Title Slide "
   focal_point: Right
   filename: titleslide_1044.jpg
 url_code: ""
