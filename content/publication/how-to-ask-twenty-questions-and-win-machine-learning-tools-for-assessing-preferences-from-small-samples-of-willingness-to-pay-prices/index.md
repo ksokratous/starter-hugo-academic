@@ -30,7 +30,7 @@ abstract: Subjective value has long been measured using binary choice
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: https://www.thoughtco.com/thmb/ktY7AvPlhudnvYAR8IvgH7FJFUA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-464209923-590769293df78c5456ac1eea.jpg
   focal_point: Smart
   preview_only: false
 date: 2023-06-28T11:13:23.221Z
