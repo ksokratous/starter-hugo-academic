@@ -1,63 +1,68 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
+title: Machine Learning approaches to estimating and comparing models of
+  intertemporal choice
+abstract: Subjective value has long been measured using binary choice
+  experiments to assess individual differences in intertemporal preferences.
+  Dynamic, stochastic models of choice permit meaningful inferences about
+  cognition from process-level data, explaining value in terms of underlying
+  mechanisms in a way that simpler, static models cannot. However, the usability
+  of complex generative models is severely limited by the technical difficulty
+  of model fitting and model comparison steps, along with the computational
+  power they require. In this talk, we develop and test an approach that uses
+  deep neural networks to estimate the parameters of three behavioral models and
+  perform model comparison between the three to assess their ability to better
+  account for intertemporal choice. The models we explore differ in their
+  complexity and the theoretical assumptions they make when it comes to the
+  study of preference; the traditional and static hyperbolic discount and
+  hyperboloid functions compared with a probabilistic attribute-wise model
+  constructed by direct and relative differences in delay and payoff. Once
+  trained, the neural networks allow for accurate and instantaneous parameter
+  estimation and model comparison, as opposed to traditional methods that can
+  take several hours and in some cases days. We compare different network
+  architectures and show that they are able to accurately recover true
+  intertemporal preferences related to each model's parameters, and then compare
+  each model's performance in their ability to predict individual choice. The
+  models were applied to a large data set of substance users in protracted
+  abstinence from Sofia, Bulgaria who completed a short, 27-question choice
+  task. The results illustrate the utility of machine-learning approaches for
+  wider adoption and integration of cognitive and economic models, providing
+  efficient methods for quantifying meaningful differences in intertemporal
+  preferences from simple experiments.
+location: University of Amsterdam
+date: 2023-06-28T11:25:34.945Z
+date_end: 2023-07-21T10:30:00.000Z
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+event: MathPsych/ICCM/EMPG 2023
+event_url: https://mathpsych.org/conference/12/
+publishDate: 2023-06-28T11:31:59.927Z
 slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+featured: false
+authors:
+  - Sokratous
+  - K.
+url_video: ""
+url_slides: ""
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: "94305"
+  country: United States
+tags: []
 projects:
-  - example
+  - AI_ForModelFitting
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  focal_point: Right
+  filename: titleslide_1044.jpg
+url_code: ""
+all_day: false
 ---
 
 {{% callout note %}}
