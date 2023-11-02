@@ -35,7 +35,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/CompCogNeuron
 event: MathPsych/ICCM/EMPG 2023
 event_url: https://mathpsych.org/conference/12/
 publishDate: 2023-06-28T11:31:59.927Z
