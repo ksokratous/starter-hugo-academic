@@ -1,9 +1,9 @@
 ---
 role: Graduate Student in Behavioral and Cognitive Neuroscience
-avatar_filename: https://media-exp1.licdn.com/dms/image/C4D03AQHH9czSwu2UcQ/profile-displayphoto-shrink_800_800/0/1623093041615?e=1661990400&v=beta&t=390SB7cXUMp1rjEVgw0kOKZQBBPQWuK21lGu5AKC-AE
+avatar_filename: https://cdn.bsky.app/img/avatar/plain/did:plc:7ulerprhvzskg6bjmliikfuy/bafkreicgtslyutkkuriezhuibhigyvslfqwpp3krpbrfamzhenzjpgizgu@jpeg
 bio: My research interests include computational and mathematical modeling,
-  psychophysics, judgement and decision making, cognitive (neuro)science and
-  mathematical psychology.
+  artificial intelligence, judgement and decision making, cognitive
+  (neuro)science and mathematical psychology.
 interests:
   - Artificial Intelligence
   - Computational Cognitive Modeling
@@ -37,7 +37,7 @@ education:
       year: 2025
     - course: MSc in Behavioral & Cognitive Neuroscience
       institution: University of Florida
-      year: 2022
+      year: 2023
     - course: MSc in Lean Operations Management
       institution: Montpellier Business School
       year: 2019
@@ -52,6 +52,6 @@ highlight_name: true
 title: Konstantina Sokratous
 email: ""
 ---
-Konstantina Sokratous is a graduate research assistant in cognitive neuroscience at the University of Florida's Cognitive and Decision Modeling Lab. Her research interests include artificial intelligence, computational and mathematical modeling, psychophysics, judgement and decision making, cognitive (neuro)science and mathematical psychology. She leads projects in automating fitting of cognitive models with the use of neural networks and in modeling processes related but not limited to anticipatory decision-making and timing, pricing of delayed prospects, and decisions among arbitrarily many alternatives that change over time.
+Konstantina Sokratous is a graduate research assistant in cognitive neuroscience at the University of Florida's Cognitive and Decision Modeling Lab. Her research interests include artificial intelligence, computational and mathematical modeling, psychophysics, judgement and decision making, cognitive (neuro)science and mathematical psychology. She leads projects in automating fitting and comparison of cognitive models, as well as automated joint modeling of multiple tasks and data with the use of neural networks. Further, she is involved in projects that focus on modeling processes related but not limited to anticipatory decision-making and timing, pricing of delayed prospects, procrastination, and decisions among arbitrarily many alternatives that change over time.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
