@@ -27,6 +27,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ksokratous/
+  - display:
+      header: false
+    link: https://bsky.app/profile/lazyneur0n.bsky.social
+    icon_pack: fab
+    icon: bluesky
 organizations:
   - name: University of Florida
     url: https://peterkvam.com
