@@ -26,7 +26,7 @@ experience:
   - title: Graduate Research Assistant
     company: University of Florida
     company_url: ''
-    company_logo: org-x
+    company_logo: org-uf
     location: Gainesville
     date_start: '2016-01-01'
     date_end: '2020-12-31'
