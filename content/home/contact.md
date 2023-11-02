@@ -42,4 +42,4 @@ content:
 design:
   columns: "2"
 ---
-* k\[dot]sokratous\[at]icloud\[dot]com
+*
