@@ -41,7 +41,7 @@ event_url: https://mathpsych.org/conference/12/
 publishDate: 2023-06-28T11:31:59.927Z
 slides: example
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: In this talk, I explain how one can use neural networks to automate model fitting and model comparison for three models of intertemporal choice. The method developed here can be applied to any arbitrary model. 
 featured: false
 authors:
   - Sokratous
@@ -49,11 +49,8 @@ authors:
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  city: Amsterdam
+  country: Netherlands
 tags: []
 projects:
   - AI_ForModelFitting

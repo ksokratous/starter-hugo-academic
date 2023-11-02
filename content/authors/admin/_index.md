@@ -1,6 +1,11 @@
 ---
-role: Graduate Student in Behavioral and Cognitive Neuroscience
-avatar_filename: bafkreicgtslyutkkuriezhuibhigyvslfqwpp3krpbrfamzhenzjpgizgu.jpg
+
+# Display Name 
+
+Title : Konstantina Sokratous
+superuser: true
+role: Ph.D Student in Behavioral and Cognitive Neuroscience
+avatar_filename: avatar.jpg
 bio: My research interests include computational and mathematical modeling,
   artificial intelligence, judgement and decision making, cognitive
   (neuro)science and mathematical psychology.
@@ -9,17 +14,17 @@ interests:
   - Computational Cognitive Modeling
   - Mathematical Psychology
   - Judgement & Decision Making
-  - Information Processing
-  - Cognitive Neuroscience
+ 
+ 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Konstantina-Sokratous-2
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CompCogNeuron
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=U9DSyLUAAAAJ&hl=en
   - icon: github
     icon_pack: fab
@@ -27,6 +32,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ksokratous/
+
+
 organizations:
   - name: University of Florida
     url: https://peterkvam.com
@@ -47,9 +54,9 @@ education:
     - course: BA in Psychology
       institution: University of Montpellier 3
       year: 2016
-superuser: true
+
 highlight_name: true
-title: Konstantina Sokratous
+
 email: ""
 ---
 Konstantina Sokratous is a graduate research assistant in cognitive neuroscience at the University of Florida's Cognitive and Decision Modeling Lab. Her research interests include artificial intelligence, computational and mathematical modeling, psychophysics, judgement and decision making, cognitive (neuro)science and mathematical psychology. She leads projects in automating fitting and comparison of cognitive models, as well as automated joint modeling of multiple tasks and data with the use of neural networks. Further, she is involved in projects that focus on modeling processes related but not limited to anticipatory decision-making and timing, pricing of delayed prospects, procrastination, and decisions among arbitrarily many alternatives that change over time.
