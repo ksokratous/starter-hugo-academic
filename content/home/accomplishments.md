@@ -24,27 +24,28 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - 
-    date_end: '20224'
+    date_end: '2024'
     date_start: '2022-08-15'
     description: 'I was awarded $24,000 over two years in grant scheme intended for postgraduate and doctoral students.'
     organization: A.G. Leventis Foundation
+    organization_url: https://www.leventisfoundation.org/
     title: A.G. Leventis Foundation Award 2022-2024
    
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+  - 
+    date_end: '2021'
+    date_start: '2020'
+    description: '$30,000 award to develop a machine-learning method to automate model fitting steps for cognitive models.'
+    organization: University of Florida - Informatics Institute
+    organization_url: https://informatics.research.ufl.edu/
+    title: UFIT Fellowship for the Advancement of AI
+
+  - 
+    date_end: '2022'
+    date_start: '2020'
+    description: 'A $6,000 award distributed over 3 years.'
+    organization: University of Florida
+    organization_url: https://graduateschool.ufl.edu/gss/funding/grinter/
+    title: Grinter Fellowship for Extraordinary Recruits
     url: ''
 
 design:
