@@ -57,7 +57,7 @@ projects:
 image:
   caption: "Title Slide "
   focal_point: Right
-  filename: titleslide_1044.jpg
+  filename: featured.jpg
 url_code: ""
 all_day: false
 ---
@@ -68,8 +68,5 @@ Click on the **Slides** button above to view the built-in slides feature.
 
 
 
-# - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 
