@@ -20,7 +20,7 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Konstantina-Sokratous-2
-  - icon: twitter
+  - icon: x
     icon_pack: fab
     link: https://twitter.com/CompCogNeuron
   - icon: google-scholar
