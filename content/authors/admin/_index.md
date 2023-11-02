@@ -1,6 +1,6 @@
 ---
 role: Graduate Student in Behavioral and Cognitive Neuroscience
-avatar_filename: https://cdn.bsky.app/img/avatar/plain/did:plc:7ulerprhvzskg6bjmliikfuy/bafkreicgtslyutkkuriezhuibhigyvslfqwpp3krpbrfamzhenzjpgizgu@jpeg
+avatar_filename: bafkreicgtslyutkkuriezhuibhigyvslfqwpp3krpbrfamzhenzjpgizgu.jpg
 bio: My research interests include computational and mathematical modeling,
   artificial intelligence, judgement and decision making, cognitive
   (neuro)science and mathematical psychology.
@@ -30,8 +30,8 @@ social:
   - display:
       header: false
     link: https://bsky.app/profile/lazyneur0n.bsky.social
-    icon_pack: fab
-    icon: bluesky
+    icon_pack: fas
+    icon: twitter
 organizations:
   - name: University of Florida
     url: https://peterkvam.com
